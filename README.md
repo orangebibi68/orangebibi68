@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hello there, I'm <a href="" target="_blank">Ilya Budantsev</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **orangebibi68/orangebibi68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=orangebibi68)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=orangebibi68)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orangebibi68)](https://git.io/streak-stats)
